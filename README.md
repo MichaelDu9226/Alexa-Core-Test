@@ -1,11 +1,11 @@
 # Alexa-Core-Test (the new & awesome version)
 
-This is a client demo for Amazon's Alexa Voice Service(AVS). This pproject is still ongoing.
+This is a client demo for Amazon's Alexa Voice Service(AVS). This project is still ongoing.
 ## Requirements
 
 You will need:
 
-1. **MT7887 HDK**
+1. **MT7687 HDK**
     - WIFI SOC
     - I2C
     - I2S Slave
@@ -15,6 +15,7 @@ You will need:
     - I2S Slave
 3. **Other**
     - Some DuPont Lines(Male to Female)
+    
 ## User Guide
 1. **SDK Download**
     - [LinkIt_SDK_V4.2.0_public](https://github.com/MichaelDu9226/LinkIt_SDK_V4.2.0_public)
