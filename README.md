@@ -1,6 +1,6 @@
 # Alexa-Core-Test (the new & awesome version)
 
-This is a client demo for Amazon's Alexa Voice Service(AVS). This project is still ongoing.
+This is a client demo for Amazon's Alexa Voice Service(AVS). It's based on WIFI SOC MT7687,using HTTP API &Aduio Codec over FreeRTOS.This project is still ongoing.And it will migration to ESP32 in the future.
 ## Requirements
 
 You will need:
